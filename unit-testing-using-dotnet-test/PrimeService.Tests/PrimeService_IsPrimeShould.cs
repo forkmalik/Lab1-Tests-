@@ -5,7 +5,7 @@ namespace Prime.UnitTests.Services
 {
     public class PrimeService_IsPrimeShould
     {
-        private readonly PrimeService _primeService;
+        private readonly SecEqu _primeService;
 
         public PrimeService_IsPrimeShould()
         {
