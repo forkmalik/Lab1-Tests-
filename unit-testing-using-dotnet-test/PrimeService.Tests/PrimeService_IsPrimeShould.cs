@@ -9,7 +9,7 @@ namespace Prime.UnitTests.Services
 
         public PrimeService_IsPrimeShould()
         {
-            _primeService = new PrimeService();
+            _primeService = new PrimeServices();
         }
 
         [Fact]
